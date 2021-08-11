@@ -202,7 +202,7 @@ const Home = ({ history }) => {
                     </Typography>
                     <Typography variant="subtitle1" paragraph>
                       {
-                        "Share your extra-ordinary thoughts and moments with your followers"
+                        "Share your extra-ordinary thought,ideas and moments with your followers"
                       }
                     </Typography>
                     <Typography variant="subtitle1" color="primary">
