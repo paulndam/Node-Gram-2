@@ -180,7 +180,7 @@ const Home = ({ history }) => {
                     </Typography>
                     <Link
                       variant="subtitle1"
-                      href="https://node-gram.herokuapp.com/api/user-list"
+                      href="https://node-gram.herokuapp.com/api/users"
                       color="#e91e63"
                     >
                       check it out
