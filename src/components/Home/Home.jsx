@@ -178,11 +178,7 @@ const Home = ({ history }) => {
                       Ofcourse, don't forget Reactjs in the play as well, for a
                       smooth and fun social communication platform.
                     </Typography>
-                    <Link
-                      variant="subtitle1"
-                      href="https://node-gram.herokuapp.com/api/users"
-                      color="#e91e63"
-                    >
+                    <Link variant="subtitle1" href="" color="#e91e63">
                       check it out
                     </Link>
                   </div>
